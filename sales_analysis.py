@@ -1,5 +1,5 @@
 # Sales Data Analysis - Superstore Dataset
-# Author: [Your Name]
+# Author: [BenDTA]
 
 import pandas as pd
 import matplotlib.pyplot as plt
