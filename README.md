@@ -49,7 +49,7 @@ sales-data-analysis/
 ## ⚙️ How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/sales-data-analysis.git
+git clone https://github.com/pn849222-hub/sql-query-portfolio.git
 cd sales-data-analysis
 
 # 2. Install dependencies
