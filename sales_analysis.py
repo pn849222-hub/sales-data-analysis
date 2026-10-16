@@ -1,5 +1,5 @@
 # Sales Data Analysis - Superstore Dataset
-# Author: [BenDTA]
+# Author: Nguyen Vu Truong Phuc
 
 import pandas as pd
 import matplotlib.pyplot as plt
