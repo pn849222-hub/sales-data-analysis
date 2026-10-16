@@ -83,11 +83,21 @@ python sales_analysis.py
 
 ## 💡 Business Recommendations
 
-1. **Reduce high discounts** — orders with ≥30% discount lose money on average.
-   Cap discounts at 20% to protect margins.
-2. **Invest in Technology** — highest profit margin across all categories.
-3. **Grow the South region** — significant gap vs West suggests untapped potential.
-4. **Focus on Consumer segment** — largest revenue contributor, prioritize retention.
+1. **Cap discounts at 20%** — orders discounted ≥30% lose $97.18 each on average.
+   The cap protects margin immediately; the follow-up question is *why* those
+   discounts are granted, since clearing old stock and buying volume are different
+   problems and only one is worth the margin.
+2. **Shift mix toward Technology** — it returns $145,455 profit, the most of any
+   category. Worth checking whether its margin holds at higher volume before
+   moving budget, since the easiest sales usually come first.
+3. **Diagnose the South before investing in it** — at $391,722 against the West's
+   $725,458 the gap is real, but share alone cannot say why. A smaller market,
+   thinner coverage, and weaker demand all look identical in this chart. Revenue
+   per customer by region separates them: if the South matches on that, the gap is
+   coverage and worth closing; if it does not, the region is simply smaller.
+4. **Protect the Consumer segment** — $1,161,401 in revenue makes it the largest
+   contributor, which is also the concentration risk. Retention work here defends
+   more revenue than growth work elsewhere wins.
 
 ---
 
